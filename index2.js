@@ -4,7 +4,6 @@ console.log("Mi fruta favorita es: ", arrayFrutas[2])
 
 for(let i=0; i < 3; i++){
     console.log(arrayFrutas[i])
-    i++
 }
 
 let botton =document.querySelector(contenido3>button)
